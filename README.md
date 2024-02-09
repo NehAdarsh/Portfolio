@@ -18,7 +18,21 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 
 # Python
 
+| Project Link  | Analysis Area | Description  |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
+
 # Tableau
+
+| Project Link  | Analysis Area | Description  |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
 
 # Excel
 
+| Project Link  | Analysis Area | Description  |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
