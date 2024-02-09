@@ -11,6 +11,11 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 
 # SQL
 
+| Project Link  | Analysis Area | Description  |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
+
 # Python
 
 # Tableau
