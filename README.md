@@ -9,14 +9,11 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 - Tableau
 - Excel
 
-# SQL 
+# [SQL](#sql)
 
+# [Python](#python)
 
-# Python
+# [Tableau](#tableau)
 
-
-# Tableau
-
-
-# Excel
+# [Excel](#excel)
 
