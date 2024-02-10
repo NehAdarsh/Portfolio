@@ -22,7 +22,7 @@ Welcome to my data portfolio! Here, I document the summary of my data projects.
 
 | Project Link  | Analysis Area | Description  |
 | ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  | Content Cell |
+| [Customer Churn Prediction Model](https://github.com/NehAdarsh/Data-Projects-SQL-Python-Tableau-Excel/tree/main/Python-Projects/Customer-Churn-Prediction-Model) | Data Cleaning, Univariate Analysis, Bivariate Analysis, Data Visualizations, Preprocessing, Classification Models (Decision Tree, Random Forest, Logistic Regression and K-Nearest Neighbors)  | This project aims to identify the customer who is likely to leave the company. Churn prediction is the process of using data and analytical models to identify which customers are most likely to stop doing business with or using a company’s product or service soon. With churn prediction, a company can take proactive measures to retain customers who are at risk of leaving. I used a dataset from kaggle.com and performed data cleaning and in-depth data analysis, developed classification models and compared the models for the best result.|
 | Content Cell  | Content Cell  | Content Cell |
 
 # Tableau
