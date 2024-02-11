@@ -32,8 +32,8 @@ Welcome to my data portfolio! Here, I document the summary of my data projects.
 
 | Project Link  | Analysis Area | Description  |
 | ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  | Content Cell |
+| [Netflix Case Study using Tableau](https://public.tableau.com/app/profile/neha.adarsh/viz/Netflix-Dashboard-Final/Dashboard1)  | Data Exploration, Transformation, Dashboard creation  | This end-to-end data analysis project succeeded in transforming raw Netflix data into a dynamic, user-interactive dashboard, providing invaluable insights into the content strategy of the streaming giant. This Netflix case study exemplifies the potency of data and the critical role of tools like Tableau in transmuting quantitative data into qualitative narratives, aiding businesses in making informed, data-driven decisions. |
+
 
 # Excel
 
