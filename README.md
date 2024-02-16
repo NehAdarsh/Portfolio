@@ -33,7 +33,7 @@ Welcome to my data portfolio! Here, I document the summary of my data projects.
 | Project Link  | Analysis Area | Description  |
 | ------------- | ------------- | ------------ |
 | [Netflix Case Study using Tableau](https://public.tableau.com/app/profile/neha.adarsh/viz/Netflix-Dashboard-Final/Dashboard1)  | Data Exploration, Transformation, Dashboard creation  | This end-to-end data analysis project succeeded in transforming raw Netflix data into a dynamic, user-interactive dashboard, providing invaluable insights into the content strategy of the streaming giant. This Netflix case study exemplifies the potency of data and the critical role of tools like Tableau in transmuting quantitative data into qualitative narratives, aiding businesses in making informed, data-driven decisions. |
-| [Washington Houses Sales Data Analysis] (https://public.tableau.com/app/profile/neha.adarsh/viz/KingCountyWashingtonHousesSalesDashboard_17080358885080/KINGCOUNTYWASHINGTONHOUSESALESDASHBOARD)  | Data Exploration, Data Analysis, Analyzing Housing Trends, Market Trends, Data Visualizations, Spatial Patterns | Whether you’re a seasoned investor or a first-time homebuyer, understanding the nuances of house sales data can empower you to navigate the market with confidence and make sound financial decisions. This end-to-end project is about analyzing trends in housing prices, square footage, and other factors over time. Also, identifying the factors that affect house prices, such as the number of bedrooms and bathrooms, square footage, condition, year built, zip code, etc. This information could be useful for potential home buyers, real estate agents, and investors.
+
 
 
 # Excel
