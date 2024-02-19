@@ -41,8 +41,7 @@ Welcome to my data portfolio! Here, I document the summary of my data projects.
 
 | Project Link  | Analysis Area | Description  |
 | ------------- | ------------- | ------------ |
-| [Annual Sales Report](https://github.com/NehAdarsh/Data-Projects-SQL-Python-Tableau-Excel/tree/main/Excel-Projects/End%20to%20end%20Data%20Analysis%20in%20Excel)  | 
-Data Cleaning, Data Processing, Data Analysis using Pivot Tables, Interactive Dashboards, Insights, Report| Performed data cleaning, data processing, and Data Analysis (using Pivot tables) by utilizing Microsoft Excel to get some insights about the sales throughout the year to get some insights and answer the business questions. Created a final report using Excel for the stakeholders. |
+| [Annual Sales Report](https://github.com/NehAdarsh/Data-Projects-SQL-Python-Tableau-Excel/tree/main/Excel-Projects/End%20to%20end%20Data%20Analysis%20in%20Excel)  | Data Cleaning, Data Processing, Data Analysis using Pivot Tables, Interactive Dashboards, Insights, Report| Performed data cleaning, data processing, and Data Analysis (using Pivot tables) by utilizing Microsoft Excel to get some insights about the sales throughout the year to get some insights and answer the business questions. Created a final report using Excel for the stakeholders. |
 | [Benefit-Cost-Analysis](https://github.com/NehAdarsh/Data-Projects-SQL-Python-Tableau-Excel/tree/main/Excel-Projects/Benefit-Cost-Analysis)  | Hypothesis Test, Chi-Squared, Benefit-cost-Analysis, Excel Formulas and functions | Performed benefit cost analysis in Excel. It was a part of my Academic projects. |
 | [Inventory Management Decision Model](https://github.com/NehAdarsh/Data-Projects-SQL-Python-Tableau-Excel/tree/main/Excel-Projects/Inventory%20Management%20Decision%20Model)  | Data Analysis, Simulation & Probability Distribution, Decision Model| Performed data analysis in Excel and built an Inventory Management Decision Model.|
 
